@@ -39,8 +39,6 @@ The following Python libraries are required to run the code:
 - `random`: For generating random operations when required.  
 
 To install these libraries, run:  
-
-```bash  
 pip install rasterio numpy matplotlib seaborn  
 
 # CNN-LSTM Soil Moisture Prediction
