@@ -87,5 +87,3 @@ Run the following command to clone the repository and navigate into the project 
 ```bash
 git clone https://github.com/ShishirBro/CNN_LSTM-to-predict-Satellite-images-of-soil-moisture-A-research-Project-.git
 
-### Notes:
-- Make sure to replace `your-username` in the GitHub URL with your actual GitHub username.
