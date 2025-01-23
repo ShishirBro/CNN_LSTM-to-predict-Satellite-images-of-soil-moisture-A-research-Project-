@@ -9,11 +9,7 @@ This repository contains a research project focused on predicting soil moisture 
 2. [Repository Structure](#repository-structure)  
 3. [Requirements](#requirements)  
 4. [Data Description](#data-description)  
-5. [Implementation Steps](#implementation-steps)  
-6. [Usage Instructions](#usage-instructions)  
-7. [Outputs](#outputs)  
-8. [Future Work](#future-work)  
-9. [Contact Information](#contact-information)  
+5. [Implementation Steps](#implementation-steps)     
 
 ---
 
@@ -91,9 +87,7 @@ Place all GeoTIFF files in a folder named `2022_geotiffs` within the repository 
 Clone the Repository
 Run the following command to clone the repository and navigate into the project directory:
 ```bash
-git clone https://github.com/your-username/CNN_LSTM_Soil_Moisture_Prediction.git
-cd CNN_LSTM_Soil_Moisture_Prediction
-
+git clone https://github.com/ShishirBro/CNN_LSTM-to-predict-Satellite-images-of-soil-moisture-A-research-Project-.git
 
 ### Notes:
 - Make sure to replace `your-username` in the GitHub URL with your actual GitHub username.
